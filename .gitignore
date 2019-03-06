@@ -1,0 +1,6 @@
+# General
+.*
+!.git*
+
+# Project
+/app/simp
