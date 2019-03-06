@@ -1,0 +1,3 @@
+[submodule "app/simp"]
+	path = app/simp
+	url = https://github.com/Laufire/simp.git
