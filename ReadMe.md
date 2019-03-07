@@ -8,4 +8,4 @@
 
 ## Usage
 
-  Mount a data dir with the needed config and sites dir to the docker container and start the web server. See the **./trial/try.sh**.
+  To start the server, start the container with a data dir mounted. This dir should contain the needed config and the sites dir. See the **./trial/try.sh** for an example.
