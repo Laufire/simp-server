@@ -1,6 +1,6 @@
 # Trial
 
-  A module to try the server image.
+	A module to try the server image.
 
 ## Usage
 ```
