@@ -1,12 +1,12 @@
 module.exports = {
 
-  baseDomain: 'localhost',
+	baseDomain: 'localhost',
 
-  https: false,
+	https: false,
 
-  Sites: {
-    '': {
-      dir: './data/sample-site'
-    },
-  },
+	Sites: {
+		'': {
+			dir: './data/sample-site'
+		},
+	},
 }
